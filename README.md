@@ -30,7 +30,7 @@ I have been React frontend and a Node.js backend. There are two primary componen
 │   ├── package.json      
 ```
 
-## Now, follow the instructions below to call me on your local machine.
+## Now, follow the instructions below to call me on your machine.
 
 ## Prerequisites
 

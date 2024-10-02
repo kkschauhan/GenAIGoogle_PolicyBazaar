@@ -57,14 +57,14 @@ Navigate to the `main` directory and Install the required dependencies:
 
    ```bash
    cd main
-   npm start
+   npm install
    ```
 ### Backend
 Navigate to the `main` directory and Install the required dependencies:
 
    ```bash
    cd ../backend
-   npm start
+   npm install
    ```
 
 ## Running the Application

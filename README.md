@@ -160,8 +160,8 @@ We’re not just redefining accessibility and trust; we’re making insurance si
 
 <span style="font-size: 1.30em;">📚</span> Additonal Docs:
 
-- [Explainer](https://www.linkedin.com/in/your-profile)
-- [User Journey Map](https://twitter.com/your-handle)
+- [Explainer](https://drive.google.com/file/d/1x6_2D3wrgnYSNE7F7lltt61Y6E-GiIhs/view?usp=sharing)
+- [User Journey Map](https://drive.google.com/file/d/1TAPAYvgv2eM_G_qAicI6VrG2EsHu4j6J/view?usp=sharing)
 
 
 Feel free to explore, contribute, and connect. Let’s make insurance work for everyone!

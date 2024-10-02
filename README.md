@@ -1,4 +1,4 @@
-# Hi I am ILA 🤖, your Interactive Live Assistant for all your policy needs at PolicyBazaar 
+# Hi! I am ILA 🤖, your Interactive Live Assistant for all your policy needs at PolicyBazaar 
 
 I am an AI-powered tool developed to enhance customer experience by automating common queries, streamlining the claim-filing process, and reducing errors. I was created in response to PolicyBazaar's challenge at Google’s Gen AI Exchange Hackathon, leveraging state-of-the-art capablities of Gemini to simplify insurance processes, improve claim accuracy, and make insurance more accessible.
 
@@ -7,7 +7,7 @@ I am an AI-powered tool developed to enhance customer experience by automating c
 But I think we should get to know each other a bit more. Let's start from me.<br>
 
 
-I have been React frontend and a Node.js backend. There are two primary components:<br>
+I am built on React frontend and a Node.js backend. There are two primary components:<br>
 * main (frontend interface)
 * backend (server)<br> 
 

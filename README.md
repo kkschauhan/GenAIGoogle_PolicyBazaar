@@ -119,7 +119,8 @@ I address these challenges by integrating Gemini and OCR to automate claim filin
 - Simple yet effective UI for <b>intuitive and seamless customer experience</b> built with design principles to serve users from diverse segments in context of their capablity to adapt to new technologies.
 
 
-
+## Here is a snapshot!
+![merged_preview](preview/merged_preview.png)
 ## Primary Technology Stack
 
 - **Google AI Studio**: To handle Gemini AI based project.

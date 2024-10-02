@@ -120,7 +120,7 @@ I address these challenges by integrating Gemini and OCR to automate claim filin
 
 
 ## Here is a snapshot!
-![merged_preview](preview/merged_preview.png)
+![merged_preview](Preview/merged_preview.png)
 ## Primary Technology Stack
 
 - **Google AI Studio**: To handle Gemini AI based project.
